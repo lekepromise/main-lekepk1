@@ -1,0 +1,318 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: #49ffff;
+    display: flex;
+    flex-direction: row;
+}
+.navi{
+    margin: 0 800px 0 100px;
+}
+.nava{
+    margin-top: 20px;
+}
+.nava a{
+    padding: 20px;
+    color: silver;
+    text-decoration: none;
+}
+.hero{
+    background-image: url(photo-1618761714954-0b8cd0026356.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.hero p{
+    font-size: x-large;
+    padding: 10px 0 0 0;
+    color: #dad6e7;
+    font-family: 'Dancing Script', cursive;
+    
+}
+.hero h1{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+}
+.hero button{
+    background-color: #ffd13c;
+    height: 40px;
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    margin: 20px 0 0 0;
+}
+.hero1{
+    height: 750px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0 50px 0;
+}
+.hero1 p{
+    font-size: x-large;
+    padding: 10px 0 0 0;
+    font-family: 'Dancing Script', cursive;
+}
+.hero1 button{
+    background-color: #ffd13c;
+    height: 35px;
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    margin: 20px 0 30px 0;
+}
+.hero1 img{
+    width: 700px;
+    border-radius: 30px;
+}
+.hero1 h1{
+    font-family: 'Dancing Script', cursive;
+}
+.hero2{
+    /* height: ; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+    background-color: #b8d8ed;
+}
+.hero2a{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;  
+}
+.hero2a img{
+    width: 700px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.hero2 p{
+    font-size: x-large;
+    padding: 10px 0 0 0;
+    font-family: 'Dancing Script', cursive;
+}
+.hero2 b{
+    font-size: xx-large;
+    font-family: 'Dancing Script', cursive;
+}
+.hero2a button{
+    background-color: #ffd13c;
+    height: 40px;
+    width: 120px;
+    border: none;
+    border-radius: 6px;
+    margin-top: 10px;
+    margin-bottom: 80px;
+    font-size: large;
+}
+.hero2 h1{
+    font-family: 'Dancing Script', cursive;
+}
+.hero3{
+    /* height: ; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+    background-color: rgba(0, 0, 0, 0.792);
+}
+.hero3 p{
+    font-size: x-large;
+    padding: 3px 0 0 0;
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 20px;
+}
+.hero3 h1{
+    font-family: 'Dancing Script', cursive;
+}
+.seyi{
+    /* font-size: xx-small; */
+}
+.hero4{
+    /* height: ; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    margin: 50px 0; 
+}
+.hero4 img{
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin: 10px;
+}
+.hero4a{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.hero4 h1{
+    font-family: 'Dancing Script', cursive;
+}
+iframe{
+    width: 1240px;
+    height:563px ;
+}
+.hero5{
+    /* height: ; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+    background-color: #b8d8ed;
+}
+.hero5 p{
+    font-size: x-large;
+    padding: 3px 0 0 0;
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 20px;
+}
+.hero5 input{
+    height: 40px;
+    width: 450px;
+    border: none;
+    border-radius: 5px;
+}
+.hero5 textarea{
+    width: 450px;
+    height: 150px;
+    border: none;
+    border-radius: 5px;
+}
+.hero5 b{
+    font-size: xx-large;
+}
+.hero5 label{
+    font-size: large; 
+    margin: 0 380px 0 0;
+    font-family: 'Dancing Script', cursive;
+}
+.hero5 button{
+    background-color: #ffd13c;
+    height: 40px;
+    width: 120px;
+    border: none;
+    border-radius: 6px;
+    margin-top: 10px;
+    margin-bottom: 80px;
+    font-size: large;
+    margin-left: 320px;
+}
+.hero5 b{
+    font-family: 'Dancing Script', cursive;
+}
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #176ba3;
+}
+.footer1 {
+    font-size: xx-large;
+    margin-top: 30px;
+    
+}
+.eye{
+    margin-left: 100px;
+}
+.footer1 a{
+    padding: 10px;
+    margin-right: 80px;
+}
+footer b{
+    font-family: 'Dancing Script', cursive;
+}
+
+button{
+    font-family: 'Dancing Script', cursive;
+}
+
+@media screen and (max-width: 600px) {
+    .navi{
+        margin: 0 50px 0 20px;
+    } 
+    .hero p{
+        font-size: medium;
+        padding: 5px 0 0 0;
+        color: #dad6e7;
+        width: 380px;
+        
+    }
+    .hero h1{
+       margin: 0 0 0 20px;
+    }
+    .hero1 p{
+        font-size: medium;
+        /* color: #dad6e7; */
+        
+    }
+    .hero1 img{
+        width: 400px;
+        border-radius: 10px;
+    }
+    .hero2 p{
+        font-size: medium;
+        /* color: #dad6e7; */
+        
+    }
+    .hero2 img{
+        width: 400px;
+        border-radius: 10px;
+    }
+    .hero3 p{
+        font-size: large;
+        /* color: #dad6e7; */
+        
+    }
+    .hero4 img{
+        width: 380px;
+        border-radius: 10px;
+    }
+    iframe{
+        width: 380px;
+        height: 20;
+    }
+    .hero5 p{
+        font-size: large;
+        /* color: #dad6e7; */
+        
+    }
+    .hero5 input{
+        height: 40px;
+        width: 380px;
+    }
+    .hero5 textarea{
+        width: 380px;
+        height: 150px;
+    }
+    .hero5 label{
+        font-size: large; 
+        margin: 0 300px 0 0;
+    }
+    .hero5 button{
+        margin-left: 250px;
+    }
+    .footer1 a{
+        padding: 10px;
+        margin-right: 20px;
+    }
+    .eye{
+        margin-left: 70px;
+    } 
+}
